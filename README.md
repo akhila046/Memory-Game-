@@ -43,4 +43,4 @@ Follow these steps to run the game locally:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/memory-game.git
+git clone https://github.com/akhila046/Memory-Game-.git
